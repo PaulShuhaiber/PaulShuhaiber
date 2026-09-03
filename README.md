@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PaulShuhaiber
-- 👀 I’m interested in programming and just getting started with github.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on any projects.
+- 👀 I’m interested in programming and automization.
+- 🌱 I’m looking to collaborate on any projects.
 - 📫 How to reach me: paul.shuhaiber@gmail.com
 - ⚡ Fun fact: Sports enthusiast.
 - <3
