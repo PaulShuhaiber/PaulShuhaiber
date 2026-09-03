@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me: paul.shuhaiber@gmail.com
-- ⚡ Fun fact: Pro footballer.
+- ⚡ Fun fact: Sports enthusiast.
 - <3
