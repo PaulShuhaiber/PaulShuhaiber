@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaulShuhaiber, currently working on the App "Gschmeckts".
+- 👋 Hi, I’m @PaulShuhaiber, currently working on the App "Gschmeckt".
 - 👀 I’m interested in programming and automization.
 - 🌱 I’m looking to collaborate on any projects.
 - 📫 How to reach me: paul.shuhaiber@gmail.com
